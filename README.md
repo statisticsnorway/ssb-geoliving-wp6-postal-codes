@@ -1,16 +1,8 @@
-# \<repo-navn>
-Beskriv hva repoet inneholder.
+# GeoLiving Postal Codes
+<img width="1280" height="640" alt="ssb-geoliving-wp6-postal-codes-social-preview" src="https://github.com/user-attachments/assets/753e90e1-29f4-4bbb-b033-72654e7efc00" />
+xxxx
 
 ## Hvorfor er ikke dette repoet public?
-Denne overskriften og tilhørende avsnitt slettes hvis repoet er public. (Husk at for public repoer finnes det [krav](https://github.com/statisticsnorway/adr/blob/main/docs/0006-aapen-kildekode-i-ssb.md#kriterier-for-%C3%A5pen-kildekode) som må oppfylles.)
+xxx
 
-I følge [Retningslinjer for åpen kildekode i SSB](https://github.com/statisticsnorway/adr/blob/main/docs/0006-aapen-kildekode-i-ssb.md)
-gjelder følgende:
 
-> "All kode i SSB skal som standard være allment tilgjengelig (åpen kildekode). Det
-gjøres unntak for kode som beskriver SSB spesifikke infrastrukturdetaljer,
-konfigurasjon av applikasjoner og annen kode som teamet vurderer til å ikke være åpen
-grunnet sikkerhetsmessige risikoer. ... Kodelagre som vurderes til ikke å være åpne
-skal ha et avsnitt i README hvor beslutningen begrunnes så konkret som mulig."
-
-\<Begrunnelse for hvorfor dette repoet ikke er public>
