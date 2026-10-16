@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+  "commit": "f4e65906f8ee96999928837c117bc62a604c753c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Vilni Verner Holst Bloch",
+      "email": "vvh@ssb.no",
+      "project_name": "ssb-geoliving-wp6-postal-codes",
+      "description": "Vår statistikk er om X, og gjennomføres 1 gang i året",
+      "license_year": "2022",
+      "_template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+      "_commit": "f4e65906f8ee96999928837c117bc62a604c753c"
+    }
+  },
+  "directory": null
+}
